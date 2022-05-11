@@ -18,7 +18,7 @@ public class SumOfArrayElements {
             for (int k : my_array){
                 sum_of_elements += k;
             }
-
+            /* Here we print the result */
             System.out.println("Sum of elements is:" + sum_of_elements);
         }
 }
