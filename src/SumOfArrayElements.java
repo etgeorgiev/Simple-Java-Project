@@ -12,7 +12,7 @@ public class SumOfArrayElements {
             for (int i = 0; i < my_array.length; i++){
                 my_array[i] = scanner.nextInt();
             }
-
+            /* Initialise new variable */
             int sum_of_elements = 0;
 
             for (int k : my_array){
