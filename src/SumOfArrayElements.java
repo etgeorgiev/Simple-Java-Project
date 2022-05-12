@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class SumOfArrayElements {
         public static void main(String[] args)
         {
+            System.out.println("Hello, this is a little project for sum of array elements");
             System.out.println("Please enter 10 values");
             /*Scan for every inserted integer number */
             Scanner scanner = new Scanner(System.in);
