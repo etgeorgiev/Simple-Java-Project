@@ -6,7 +6,7 @@ public class SumOfArrayElements {
             System.out.println("Please enter 10 values");
             /*Scan for every inserted integer number */
             Scanner scanner = new Scanner(System.in);
-            /*Create new array variable    
+            /*Create new array variable */
             int[] my_array = new int[10];
                 
             for (int i = 0; i < my_array.length; i++){
